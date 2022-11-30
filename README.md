@@ -36,11 +36,17 @@ Sobre mim:
   ![Cypress](https://img.shields.io/badge/-Cypress-336791?style=flat-square&logo=cypress)
   ![Selenium](https://img.shields.io/badge/-SELENIUM-336791?style=flat-square&logo=Selenium)
   
- ## 📊 GitHub Stats:
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=josearilson&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=josearilson&theme=vision-friendly-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=josearilson&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=josearilson&icon=1&color=3)](https://visitcount.itsvg.in)
+--------------------------------------------
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+-----------------------------------------------------
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 

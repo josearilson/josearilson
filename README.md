@@ -36,19 +36,9 @@ Sobre mim:
   ![Cypress](https://img.shields.io/badge/-Cypress-336791?style=flat-square&logo=cypress)
   ![Selenium](https://img.shields.io/badge/-SELENIUM-336791?style=flat-square&logo=Selenium)
   
+
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=josearilson&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=josearilson&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
---------------------------------------------
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
------------------------------------------------------
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
- ## ⚡ GitHub Status
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=josearilson&hide=issues&show_icons=true&title_color=61dafb&text_color=FFFFFF&icon_color=61dafb&bg_color=20232a)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=josearilson&theme=vision-friendly-dark&hide_border=false)<br/>

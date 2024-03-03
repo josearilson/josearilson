@@ -6,7 +6,7 @@ Aqui está algumas das minhas redes sociais e formas de contatos:
 
 Sobre mim:
 
-- 👩 Sou José Arilson, Analista de Testes de Software, entusiasta de tecnologia.
+- 🤓 Sou José Arilson, Analista de Testes de Software, entusiasta de tecnologia.
 - 🎓 Formado em Tecnologia de Banco de dados pela <strong>Universidade Cruzeiro do Sul</strong>.
 - 💼 Sou amante de Café e fã de Cypress. Atualmente trabalhando com Testes de API-REST pela empresa <strong>@Spread Tecnologia</strong>.
 - 🤓 Atualmente venho direcionando os meus estudos em Testes de Sofware web e API-REST, aqui no GitHub você vai encontrar diversos projetinhos desenvolvidos em  Javascript, Cypress, NodeJs e HTML.
